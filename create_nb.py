@@ -1,9 +1,6 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+import json
+
+markdown_source = [
     "# Data Cleaning: Column Filtration\n",
     "In this step, we drop irrelevant and unidentifiable columns from the raw dataset based on our 3-way analytical perspective:\n",
     "1. Business Setup\n",
@@ -11,14 +8,9 @@
     "3. Airbnb Growth\n",
     "\n",
     "The columns dropped include scraping metadata, internal URLs/IDs, completely null location features, mathematically redundant host fields, and overly granular availability parameters."
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
+]
+
+code_source = [
     "import pandas as pd\n",
     "\n",
     "# Load the raw dataset\n",
@@ -63,10 +55,29 @@
     "save_path = '../data/raw/airbnb_listing.csv'\n",
     "df.to_csv(save_path, index=False)\n",
     "print(f\"Cleaned dataset saved back to {save_path}\")"
-   ]
+]
+
+notebook = {
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": markdown_source
+  },
+  {
+   "cell_type": "code",
+   "execution_count": None,
+   "metadata": {},
+   "outputs": [],
+   "source": code_source
   }
  ],
  "metadata": {},
  "nbformat": 4,
  "nbformat_minor": 5
 }
+
+with open('/Users/manangilhotra010/Desktop/SECTIONA_G5_SmartStay_Analytics/notebooks/02_cleaning.ipynb', 'w') as f:
+    json.dump(notebook, f, indent=1)
+
+print("Notebook generated directly via json block!")
