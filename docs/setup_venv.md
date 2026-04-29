@@ -1,36 +1,35 @@
-# Setting up your Workspace (.venv)
+# 🐍 Setting Up Your Python Environment
 
-To run our notebooks and scripts, you need a few specific Python libraries. To keep things clean and avoid mess with your other projects, we use a **Virtual Environment (.venv)**. Here's how to set it up:
+To run our analysis scripts and notebooks, you'll need to set up a Virtual Environment. This keeps our project dependencies separate from your other work and prevents "it works on my machine" issues.
 
-## 1. Create the Environment
-Open your terminal inside the project folder and run:
+### 1. Create the Environment
+In your terminal, within the project folder, run:
 ```bash
 python3 -m venv .venv
 ```
-*(This creates a little "bubble" where all our project tools will live.)*
+*This creates a folder named `.venv` that will hold all our Python tools.*
 
-## 2. Turn it on (Activate)
-Depending on what computer you're using, the command is slightly different:
-
-*   **Mac or Linux:**
+### 2. Activate It
+You need to tell your computer to use this specific environment:
+*   **macOS / Linux:**
     ```bash
     source .venv/bin/activate
     ```
 *   **Windows:**
-    ```bash
-    .venv\Scripts\activate
+    ```powershell
+    .\venv\Scripts\activate
     ```
-*(You'll know it worked if you see `(.venv)` appear at the start of your command line!)*
 
-## 3. Install the Tools
-Now, just run this to install all the libraries we used (like Pandas and Seaborn):
+### 3. Install Dependencies
+Now, install the libraries we used (like Pandas, Matplotlib, and Scikit-learn):
 ```bash
 pip install -r requirements.txt
 ```
 
----
+### 4. You're Ready!
+You can now run the ETL pipeline:
+```bash
+python3 scripts/etl_pipeline.py
+```
 
-### Pro Tip:
-If you're using **VS Code**, it might ask you to select a "Kernel" for the notebooks. Make sure you pick the one that says `.venv` so it can find the tools you just installed!
-
-Happy coding! 🚀
+*Note: If you are using VS Code, make sure to select the `.venv` kernel when opening our Jupyter Notebooks.*

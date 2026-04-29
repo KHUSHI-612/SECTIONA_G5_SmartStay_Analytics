@@ -1,11 +1,10 @@
-# Reports and Deliverables
+# 📂 Reports & Presentation Outlines
 
-This directory contains the documentation and reporting assets for the SmartStay Analytics project.
+This folder contains the scaffolding and drafts for our final deliverables. While the comprehensive **Final Project Report** is now located in the `docs/` folder for easier access, you'll find the presentation strategy here.
 
-## Files
-- `project_report_template.md`: A comprehensive template outlining the final project report structure.
-- `presentation_outline.md`: A slide-by-slide guide for the project presentation.
-- `README.md`: This summary file.
+### 📄 What's Inside:
+1.  **[Presentation Outline](presentation_outline.md):** The slide-by-slide plan for our final demo.
+2.  **[Project Template](project_report_template.md):** The original structural skeleton used for drafting.
 
-## Presentation Instructions
-The final presentation should focus on the actionable insights derived from the statistical and EDA notebooks. Use the exports from `05_final_load_prep.ipynb` to build your Tableau dashboards.
+---
+*Group 5 Technical Documentation*

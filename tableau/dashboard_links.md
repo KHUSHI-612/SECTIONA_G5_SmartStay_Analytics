@@ -1,29 +1,25 @@
-# 📊 SmartStay Analytics: Tableau Dashboards
+# 📊 Live Tableau Dashboards: Albany Market Insights
 
-This document contains the links to our live Tableau Public dashboards along with their respective screenshots. These dashboards provide interactive insights into the Albany Airbnb market, focusing on investment potential, guest demand, and pricing strategy.
-
----
-
-## 🚀 Live Dashboard Links
-
-| Dashboard Name | Live Link |
-| :--- | :--- |
-| **Dashboard 1: Market Overview** | [View on Tableau Public](https://public.tableau.com/app/profile/khushi.batra8374/viz/Book2_17774752683560/Dashboard1?publish=yes) |
-| **Dashboard 2: Revenue & Pricing Strategy** | [View on Tableau Public](https://public.tableau.com/app/profile/khushi.batra8374/viz/D2_DATA_17774765499930/D2_DashboardRevenuePricingStrategy?publish=yes) |
-| **Dashboard 3: Investment Intelligence** | [View on Tableau Public](https://public.tableau.com/app/profile/khushi.batra8374/viz/Book2_17774752683560/Dashboard3?publish=yes) |
+Explore our interactive visualizations on Tableau Public. These dashboards are designed to provide a 360-degree view of the Albany Airbnb ecosystem.
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### 1. Dashboard 1: Market Overview
-![Dashboard 1 Screenshot](screenshots/Dashboard1.png)
-
-### 2. Dashboard 2: Revenue & Pricing Strategy
-![Dashboard 2 Screenshot](screenshots/Dashboard2.png)
-
-### 3. Dashboard 3: Investment Intelligence
-![Dashboard 3 Screenshot](screenshots/Dashboard3.png)
+## 🔗 Dashboard Access
+*   **[Market Overview: Geography & Density](https://public.tableau.com/app/profile/khushi.batra8374/viz/Book2_17774752683560/Dashboard1?publish=yes)**
+    *   *Best for:* Identifying which wards have the most active listings and where the price clusters are.
+*   **[Revenue Strategy: The Investor's View](https://public.tableau.com/app/profile/khushi.batra8374/viz/D2_DATA_17774765499930/D2_DashboardRevenuePricingStrategy?publish=yes)**
+    *   *Best for:* Understanding the relationship between nightly price, occupancy, and total annual revenue.
+*   **[Investment Intelligence: Advanced KPIs](https://public.tableau.com/app/profile/khushi.batra8374/viz/Book2_17774752683560/Dashboard3?publish=yes)**
+    *   *Best for:* Deep dives into Superhost impacts, review score trends, and room type comparisons.
 
 ---
-*Built by Section A, Group 5 — April 2026*
+
+## 📸 Visual Previews
+We've included screenshots of these dashboards in the `tableau/screenshots/` folder for offline viewing.
+
+1.  **Dashboard 1:** ![Market Overview](screenshots/Dashboard1.png)
+2.  **Dashboard 2:** ![Revenue Strategy](screenshots/Dashboard2.png)
+3.  **Dashboard 3:** ![Investment Intelligence](screenshots/Dashboard3.png)
+
+---
+*Created by Section A, Group 5 for the DVA Capstone 2 Project.*
