@@ -9,7 +9,7 @@ Over the past few weeks, we’ve transformed raw data into actionable intelligen
 ## 📂 Project Roadmap
 - **`data/`**: The heart of the project. Contains our raw and processed listing data.
 - **`notebooks/`**: Our digital lab. This is where the EDA, statistical testing, and modeling happen.
-- **`docs/`**: Your guide to the project. Includes the [**Final Project Report**](docs/FINAL_PROJECT_REPORT.md), [**Business Insights**](docs/BUSINESS_INSIGHTS.md), and technical setup guides.
+- **`docs/`**: Your guide to the project. Includes the [**Final Project Report**](docs/FINAL_PROJECT_REPORT.md) ([View on Google Docs](https://docs.google.com/document/d/1-ogoCj-1o55CGpeAd3gNcJCfEPMsu8xd_9z8S56uz9w/edit?usp=sharing)), [**Business Insights**](docs/BUSINESS_INSIGHTS.md), and technical setup guides.
 - **`reports/`**: [**Final Project Presentation (PDF)**](reports/PPT_DVA.pdf) and presentation outlines.
 - **`scripts/`**: The heavy lifting. Our Python ETL pipeline that automates data preparation.
 - **`tableau/`**: Our visual storytelling. Check out the [**Dashboard Links**](tableau/dashboard_links.md) to see the data in action.
