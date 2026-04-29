@@ -12,10 +12,9 @@ This file tracks the **DVA (Data Visualization & Analytics) Portfolios** for all
 | 2 | **Mayank Gupta** | [🌐 dva-portfolio-jk67.onrender.com](https://dva-portfolio-jk67.onrender.com/) | [Mayank0875/DVA_Portfolio](https://github.com/Mayank0875/DVA_Portfolio) |
 | 3 | **Manan Gilhotra** | [🌐 dva-prortfolio-eight.vercel.app](https://dva-prortfolio-eight.vercel.app/) | [MananGilhotra/DVA_Prortfolio](https://github.com/MananGilhotra/DVA_Prortfolio) |
 | 4 | **Mayank Sharma** | *(coming soon)* | [MAYANKSHARMA01010/DVA_PORTFOLIO](https://github.com/MAYANKSHARMA01010/DVA_PORTFOLIO) |
-| 5 | **Aditya Rao** | — | — |
-| 6 | **Vidhi Singhal** | — | — |
-| 7 | **Abhiraj Tripathi** | — | — |
-| 8 | **Khushi Batra** | — | — |
+| 5 | **Vidhi Singhal** | — | — |
+| 6 | **Abhiraj Tripathi** | — | — |
+| 7 | **Khushi Batra** | — | — |
 
 ---
 
@@ -41,7 +40,7 @@ This file tracks the **DVA (Data Visualization & Analytics) Portfolios** for all
 - 💻 **GitHub Repo:** [github.com/MAYANKSHARMA01010/DVA_PORTFOLIO](https://github.com/MAYANKSHARMA01010/DVA_PORTFOLIO)
 - 🐙 **GitHub Profile:** [@MAYANKSHARMA01010](https://github.com/MAYANKSHARMA01010)
 
-### 5–8. Aditya Rao · Vidhi Singhal · Abhiraj Tripathi · Khushi Batra
+### 5–7. Vidhi Singhal · Abhiraj Tripathi · Khushi Batra
 > Details to be added soon.
 
 ---

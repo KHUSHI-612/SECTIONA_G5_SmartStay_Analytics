@@ -47,17 +47,23 @@ We have prepared a `tableau_ready.csv` that includes advanced business metrics:
 *   **Investment Potential:** A weighted score (0-100) to identify top property opportunities.
 *   **Market Segmentation:** Categorized price, revenue, and quality tiers.
 
+### 🔗 Live Dashboards
+Explore our interactive insights on Tableau Public:
+*   **[All Live Dashboards & Screenshots](tableau/dashboard_links.md)**
+*   **[Dashboard 1: Market Overview](https://public.tableau.com/app/profile/khushi.batra8374/viz/Book2_17774752683560/Dashboard1?publish=yes)**
+*   **[Dashboard 2: Revenue & Pricing Strategy](https://public.tableau.com/app/profile/khushi.batra8374/viz/D2_DATA_17774765499930/D2_DashboardRevenuePricingStrategy?publish=yes)**
+*   **[Dashboard 3: Investment Intelligence](https://public.tableau.com/app/profile/khushi.batra8374/viz/Book2_17774752683560/Dashboard3?publish=yes)**
+
 ## 👥 The Team — Section A, Group 5
 
 | Contributor | Role | Profile | Resume | Portfolio |
 | :--- | :--- | :--- | :--- | :--- |
 | <img src="https://github.com/MAYANKSHARMA01010.png?size=80" width="80"><br>**Mayank Sharma** | **Project Lead** | [@MAYANKSHARMA01010](https://github.com/MAYANKSHARMA01010) | [📄 Resume](https://drive.google.com/drive/folders/1hyAqW57kYWOFdjWLKunGz9ghxRdwRbW_?usp=sharing) | [🌐 Portfolio](https://github.com/MAYANKSHARMA01010/DVA_PORTFOLIO) |
 | <img src="https://github.com/MananGilhotra.png?size=80" width="80"><br>**Manan Gilhotra** | **Data Wizard** | [@MananGilhotra](https://github.com/MananGilhotra) | [📄 Resume](https://drive.google.com/file/d/15-ZkzoQhSKS6VJoKVXpTLRPJP7FCoPzw/view?usp=sharing) | [🌐 Portfolio](https://dva-prortfolio-eight.vercel.app/) |
-| <img src="https://github.com/BLOODWYROM.png?size=80" width="80"><br>**Aditya Rao** | **Viz Specialist** | [@BLOODWYROM](https://github.com/BLOODWYROM) | — | — |
-| <img src="https://github.com/tayaldaniel2.png?size=80" width="80"><br>**Daniel Tayal** | **Research Guru** | [@tayaldaniel2](https://github.com/tayaldaniel2) | [📄 Resume](https://docs.google.com/document/d/17bhjIa4_JcdxQv4MC1QkrR3BNgHRHKdZyqFWiCVix2g/edit?usp=sharing) | [🌐 Portfolio](https://portfolio-danie.netlify.app) |
-| <img src="https://github.com/VidhiSinghal102.png?size=80" width="80"><br>**Vidhi Singhal** | **Stats Master** | [@VidhiSinghal102](https://github.com/VidhiSinghal102) | — | — |
+| <img src="https://github.com/danieltayal07.png?size=80" width="80"><br>**Daniel Tayal** | **Research Guru** | [@danieltayal07](https://github.com/danieltayal07) | [📄 Resume](https://docs.google.com/document/d/17bhjIa4_JcdxQv4MC1QkrR3BNgHRHKdZyqFWiCVix2g/edit?usp=sharing) | [🌐 Portfolio](https://portfolio-danie.netlify.app) |
+| <img src="https://github.com/vidhisinghal0101.png?size=80" width="80"><br>**Vidhi Singhal** | **Stats Master** | [@vidhisinghal0101](https://github.com/vidhisinghal0101) | — | — |
 | <img src="https://github.com/abhiraj6386.png?size=80" width="80"><br>**Abhiraj Tripathi** | **Technical Architect** | [@abhiraj6386](https://github.com/abhiraj6386) | — | — |
-| <img src="https://github.com/khushibatra306.png?size=80" width="80"><br>**Khushi Batra** | **Market Analyst** | [@khushibatra306](https://github.com/khushibatra306) | — | — |
+| <img src="https://github.com/KHUSHI-612.png?size=80" width="80"><br>**Khushi Batra** | **Market Analyst** | [@KHUSHI-612](https://github.com/KHUSHI-612) | — | — |
 | <img src="https://github.com/Mayank0875.png?size=80" width="80"><br>**Mayank Gupta** | **Documentation Lead** | [@Mayank0875](https://github.com/Mayank0875) | [📄 Resume](https://drive.google.com/file/d/16z82iqcc3aQewy2rVgxbtzI5AF0haK05/view?usp=sharing) | [🌐 Portfolio](https://dva-portfolio-jk67.onrender.com/) |
 
 > 📁 Full details → **[Portfolio Links](DVA-focused-Portfolio/README.md)** · **[Resume Links](DVA-oriented-Resume/README.md)**

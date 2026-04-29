@@ -12,10 +12,9 @@ This file tracks the **DVA (Data Visualization & Analytics) Resumes** for all me
 | 2 | **Mayank Gupta** | [📄 View Resume (Google Drive)](https://drive.google.com/file/d/16z82iqcc3aQewy2rVgxbtzI5AF0haK05/view?usp=sharing) |
 | 3 | **Manan Gilhotra** | [📄 View Resume (Google Drive)](https://drive.google.com/file/d/15-ZkzoQhSKS6VJoKVXpTLRPJP7FCoPzw/view?usp=sharing) |
 | 4 | **Mayank Sharma** | [📄 View Resume (Google Drive)](https://drive.google.com/drive/folders/1hyAqW57kYWOFdjWLKunGz9ghxRdwRbW_?usp=sharing) |
-| 5 | **Aditya Rao** | — |
-| 6 | **Vidhi Singhal** | — |
-| 7 | **Abhiraj Tripathi** | — |
-| 8 | **Khushi Batra** | — |
+| 5 | **Vidhi Singhal** | — |
+| 6 | **Abhiraj Tripathi** | — |
+| 7 | **Khushi Batra** | — |
 
 ---
 
@@ -37,7 +36,7 @@ This file tracks the **DVA (Data Visualization & Analytics) Resumes** for all me
 - 📄 **Resume:** [View on Google Drive](https://drive.google.com/drive/folders/1hyAqW57kYWOFdjWLKunGz9ghxRdwRbW_?usp=sharing)
 - 🐙 **GitHub Profile:** [@MAYANKSHARMA01010](https://github.com/MAYANKSHARMA01010)
 
-### 5–8. Aditya Rao · Vidhi Singhal · Abhiraj Tripathi · Khushi Batra
+### 5–7. Vidhi Singhal · Abhiraj Tripathi · Khushi Batra
 > Details to be added soon.
 
 ---
